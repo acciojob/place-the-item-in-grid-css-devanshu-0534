@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.holder{
+	width:100vw;
+	height:100vh;
+	display:grid;
+	grid-template-columns:repeat(2, auto);
+	
+}
+.item{
+	width:200px;
+	height:200px;
+	
+}
