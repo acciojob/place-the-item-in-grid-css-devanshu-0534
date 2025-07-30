@@ -4,7 +4,7 @@
 	width:100vw;
 	height:100vh;
 	display:grid;
-	grid-template-columns:repeat(100px,100px);
+	grid-template-columns:repeat(1,auto);
 	
 }
 .item{
